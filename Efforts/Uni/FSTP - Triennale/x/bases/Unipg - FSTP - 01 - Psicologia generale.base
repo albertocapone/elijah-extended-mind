@@ -1,0 +1,17 @@
+filters:
+  and:
+    - project == "FSTP"
+    - course == "Elementi di Psicologia Generale"
+    - file.name != "FSTP - 01 - Psicologia generale - Recap"
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - file.links
+    sort:
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 339
+      file.links: 460

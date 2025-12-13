@@ -1,0 +1,4 @@
+---
+subject: Psychology
+type: concept
+---

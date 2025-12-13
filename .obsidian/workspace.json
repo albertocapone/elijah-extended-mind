@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "a371a2dc6af662bf",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b223bfa42d31395",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "049f81e216ac5650",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Atlas 🧿/x/docs/evolutionary_psychology_new_science_of_mind_buss.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "evolutionary_psychology_new_science_of_mind_buss"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5abdd25580c6ea94",
+    "type": "split",
+    "children": [
+      {
+        "id": "bbd25e751edafb6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cb61d41e87400206",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "c3a54755557c4c70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "848b20ffbab497ba",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 624.5
+  },
+  "right": {
+    "id": "47597f7969ce7ace",
+    "type": "split",
+    "children": [
+      {
+        "id": "c06571dad02143c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99f08992f8f6ee7f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "391a7a243ed510c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "5aab265c26d06d83",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "f0a137ba996be501",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e7b34f1fbbd7743a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c935414801a1ca8d",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 309.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "049f81e216ac5650",
+  "lastOpenFiles": [
+    "Efforts/Uni/FSTP - Triennale/x/docs/unipg-calendario-2025-26.pdf",
+    "Atlas 🧿/x/docs/evolutionary_psychology_new_science_of_mind_buss.pdf",
+    "Atlas 🧿/Notes/Sources/Introduzione alla Psicologia, Atkinson & Hilgard (book).md",
+    "Atlas 🧿/Maps/Prospettive contemporanee nella psicologia.md",
+    "Atlas 🧿/Maps/Storia della psicologia - Cronologia e filo rosso.md",
+    "Efforts/Uni/FSTP - Triennale/Notes/FSTP - 01 - Psicologia generale - Riferimenti utili.md",
+    "Calendar 📅/Notes/Ramblings/2025/Obsidian on my mind (04-12-25).md",
+    "Efforts/Uni/FSTP - Triennale/Maps/FSTP - 01 - Psicologia generale - Recap.md",
+    "Efforts/Uni/FSTP - Triennale/x/bases/Unipg - FSTP - 01 - Psicologia generale.base",
+    "Efforts/Uni/FSTP - Triennale/Notes/FSTP - 00 - Riferimenti utili.md",
+    "Calendar 📅/Notes/Dreams/2025/Green-haired being and Z device (25-10-25).md",
+    "Atlas 🧿/Notes/Ideas/Problema della realtà - il dato primario.md",
+    "Efforts/Worldbuilding/TBD",
+    "Atlas 🧿/Notes/Sources/Evolutionary Psychology, the New Science of the Mind, Buss (book).md",
+    "Atlas 🧿/Notes/Sources/Consciousness, an Introduction, Blackmore (book).md",
+    "Atlas 🧿/Notes/Sources/Cognitive Neuroscience, Gazzaniga (book).md",
+    "Atlas 🧿/Notes/Sources/The Blank Slate, The Modern Denial of Human Nature, Pinker (book).md",
+    "Atlas 🧿/Notes/Sources/Storia della psicologia e della mente, Foschi (book).md",
+    "Calendar 📅/Notes/Ramblings/2025",
+    "Calendar 📅/Notes/Ramblings",
+    "x",
+    "Untitled.base",
+    "Efforts/Work/Domnia/x",
+    "Efforts/Work/Domnia/Notes",
+    "Efforts/Work/Domnia/Maps",
+    "Atlas 🧿/x/images/escher-hand-with-reflecting-sphere.jpeg",
+    "Atlas 🧿/Notes/Ideas/Natural attitude (Husserl).md",
+    "Untitled.md",
+    "FSTP.md",
+    "Atlas 🧿/Notes/Ideas/IT (Stephen King).md",
+    "Atlas 🧿/Notes/Ideas/Mercurius.md",
+    "Calendar 📅/Logs/Psicologia generale - giorno 1.md",
+    "Projects/Worldbuilding/Untitled.canvas",
+    "Atlas 🧿/Maps/Books.md",
+    "Home 🏡.md",
+    "+/Psicologia (definizione).md",
+    "Cards 🧩/_.md",
+    "Extra/Tipi e Tag.md",
+    "Senza nome.canvas"
+  ]
+}
