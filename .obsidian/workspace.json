@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6b223bfa42d31395",
+        "id": "b2af3aa5c0cb2b94",
         "type": "tabs",
         "children": [
           {
-            "id": "049f81e216ac5650",
+            "id": "232476915fbd86db",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Atlas 🧿/x/docs/evolutionary_psychology_new_science_of_mind_buss.pdf"
+                "file": "Efforts/Worldbuilding/I misteri di Harrondill/Organizations & Factions/Congrega degli Eterni.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "evolutionary_psychology_new_science_of_mind_buss"
+              "icon": "lucide-file",
+              "title": "Congrega degli Eterni"
             }
           }
         ]
@@ -76,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 624.5
+    "width": 272
   },
   "right": {
     "id": "47597f7969ce7ace",
@@ -191,46 +193,51 @@
       "bases:Create new base": false
     }
   },
-  "active": "049f81e216ac5650",
+  "active": "232476915fbd86db",
   "lastOpenFiles": [
-    "Efforts/Uni/FSTP - Triennale/x/docs/unipg-calendario-2025-26.pdf",
-    "Atlas 🧿/x/docs/evolutionary_psychology_new_science_of_mind_buss.pdf",
-    "Atlas 🧿/Notes/Sources/Introduzione alla Psicologia, Atkinson & Hilgard (book).md",
-    "Atlas 🧿/Maps/Prospettive contemporanee nella psicologia.md",
-    "Atlas 🧿/Maps/Storia della psicologia - Cronologia e filo rosso.md",
-    "Efforts/Uni/FSTP - Triennale/Notes/FSTP - 01 - Psicologia generale - Riferimenti utili.md",
-    "Calendar 📅/Notes/Ramblings/2025/Obsidian on my mind (04-12-25).md",
-    "Efforts/Uni/FSTP - Triennale/Maps/FSTP - 01 - Psicologia generale - Recap.md",
-    "Efforts/Uni/FSTP - Triennale/x/bases/Unipg - FSTP - 01 - Psicologia generale.base",
-    "Efforts/Uni/FSTP - Triennale/Notes/FSTP - 00 - Riferimenti utili.md",
-    "Calendar 📅/Notes/Dreams/2025/Green-haired being and Z device (25-10-25).md",
-    "Atlas 🧿/Notes/Ideas/Problema della realtà - il dato primario.md",
-    "Efforts/Worldbuilding/TBD",
-    "Atlas 🧿/Notes/Sources/Evolutionary Psychology, the New Science of the Mind, Buss (book).md",
-    "Atlas 🧿/Notes/Sources/Consciousness, an Introduction, Blackmore (book).md",
-    "Atlas 🧿/Notes/Sources/Cognitive Neuroscience, Gazzaniga (book).md",
-    "Atlas 🧿/Notes/Sources/The Blank Slate, The Modern Denial of Human Nature, Pinker (book).md",
-    "Atlas 🧿/Notes/Sources/Storia della psicologia e della mente, Foschi (book).md",
-    "Calendar 📅/Notes/Ramblings/2025",
-    "Calendar 📅/Notes/Ramblings",
-    "x",
-    "Untitled.base",
-    "Efforts/Work/Domnia/x",
-    "Efforts/Work/Domnia/Notes",
-    "Efforts/Work/Domnia/Maps",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Characters/Untitled.md",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Organizations & Factions/Congrega degli Eterni.md",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Plot",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Systems",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Organizations & Factions",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Events & History",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Locations",
+    "Efforts/Worldbuilding/I misteri di Harrondill/Characters",
+    "Efforts/Work/Domnia/Notes/Apps/B2B.md",
+    "Efforts/Work/Domnia/Notes/Apps",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Characters/Nerizio.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/x/images/fratellanza_del_rinnovamento_symbol_PokAnRev.png",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Factions/Fratellanza del Rinnovamento (faction).md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Factions/Figli di Arceus (faction).md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/x/prompts/Fratellanza del Rinnovamento (symbol-prompt).md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/x/prompts/Figli di Arceus (symbol-prompt).md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/x/prompts",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/x/images/figli_di_arceus_symbol_wax_PokAnRev.png",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Locations/Azalina.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Lore/Stop the drowziness!.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Lore/Pokèball.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/x/images/stop_the_drowziness_PokAnRev.png",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/+/Untitled.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/maps/The Renewal Conflict - MOC.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/+",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/maps/Quests - MOC.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/maps/Pokemon Ancestral Revelations - MOC.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/maps/Factions - MOC.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/maps/Characters - MOC.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Sessioni/Giocatori.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Sessioni/001/Sinossi.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Lore/Timeline della civiltà.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Lore/Pokemon comuni.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Lore/Premesse.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Characters/Giacomo, Team Rocket.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Quests/Q1 - Fuoco di Liberazione/NPC/Giacomo, Team Rocket.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Quests/Q1 - Fuoco di Liberazione/Sinossi.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/notes/Quests/Q1 - Fuoco di Liberazione/NPC",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/Sessioni/Giocatori.md",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/Risorse/children_of_arceus_symbol.png",
+    "Efforts/Worldbuilding/Pokemon Ancestral Revelations/Risorse/pokemon_ancestral_revelations_brotherhood_renewal_symbol 1.png",
     "Atlas 🧿/x/images/escher-hand-with-reflecting-sphere.jpeg",
-    "Atlas 🧿/Notes/Ideas/Natural attitude (Husserl).md",
-    "Untitled.md",
-    "FSTP.md",
-    "Atlas 🧿/Notes/Ideas/IT (Stephen King).md",
-    "Atlas 🧿/Notes/Ideas/Mercurius.md",
-    "Calendar 📅/Logs/Psicologia generale - giorno 1.md",
     "Projects/Worldbuilding/Untitled.canvas",
-    "Atlas 🧿/Maps/Books.md",
-    "Home 🏡.md",
-    "+/Psicologia (definizione).md",
-    "Cards 🧩/_.md",
-    "Extra/Tipi e Tag.md",
     "Senza nome.canvas"
   ]
 }
