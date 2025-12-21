@@ -6,6 +6,7 @@
     "created": "date",
     "subject": "multitext",
     "date": "date",
-    "links": "multitext"
+    "links": "multitext",
+    "url": "multitext"
   }
 }

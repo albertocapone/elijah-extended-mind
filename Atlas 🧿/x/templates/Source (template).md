@@ -1,11 +1,12 @@
 ---
 type: source
-project: 
 status: seed
 topics: []
 author: 
+  - "[[...]]"
 year: 
 media: 
+url: 
 ---
 # {{title}}
 

@@ -2,7 +2,8 @@
 type: note
 project: uni-fstp
 status: stable
-topics: [admin]
+topics:
+  - planning
 ---
 
 ### Piano di studi

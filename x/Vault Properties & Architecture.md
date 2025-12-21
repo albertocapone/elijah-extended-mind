@@ -13,7 +13,9 @@ Questo vault utilizza un sistema di proprietà "Project-Centric".
 - **topics**: Definisce il contesto del *contenuto* (Di cosa parla questa nota?).
 - **type**: Definisce la *struttura* (Che forma ha questo dato?).
 
-Le note senza un `project` sono considerate parte dell'**Atlas** (General Knowledge Base).
+**Atlas vs Progetti:**
+Le note di "Conoscenza Generale" (es. Storia della Psicologia) vivono nell'**Atlas** e **NON** devono avere un `project`. Sono verità universali.
+I progetti (es. `uni-fstp`) linkano queste note, ma non le possiedono.
 
 ---
 
@@ -25,14 +27,15 @@ Definisce l'identità strutturale della nota. Determina quale template è stato 
 *   `concept` - Idee astratte, teorie, definizioni.
 *   `source` - Libri, articoli, video, paper.
 *   `person` - Esseri umani del mondo reale.
-*   `character` - Entità fittizie (mie o di altri).
+*   `character` - Entità fittizie (tue o di altri).
 *   `location` - Luoghi (reali o fittizi).
 *   `faction` - Gruppi, aziende, gilde, organizzazioni.
 *   `event` - Eventi storici o narrativi.
 *   `system` - Set di regole (Magia, Tecnologia, Legge, Biologia).
-*   `dream` - Entry del diario onirico.
+*   `dream` - Entry del diario notturno.
 *   `log` - Pensieri generali, meeting, meta-note.
-*   `project` - Definisce un progetto stesso.
+*   `software` - Applicazioni, tool, specifiche tecniche.
+*   `project` - Un file che definisce un progetto stesso.
 
 ### `project`
 Lo sforzo attivo a cui appartiene questa nota. Se `null`, è Conoscenza Generale.
@@ -43,8 +46,9 @@ Lo sforzo attivo a cui appartiene questa nota. Se `null`, è Conoscenza Generale
 *   `vault-meta` - Manutenzione del sistema e design.
 
 ### `topics`
-Una lista di tag/keyword che descrivono il contenuto. Sostituisce i `#tags` inline.
-*   *Examples:* `[neuroscience, epistemology, magic, coding, psychology, jung, horror]`
+Una lista di tag/keyword "Alto Livello". Non usare per dettagli effimeri.
+*   *Good:* `[psychology, coding, magic]`
+*   *Bad:* `[green-hair, time-travel-paradox]`
 
 ---
 
@@ -66,8 +70,9 @@ Usate solo per `type` specifici.
 
 | Type | Property | Description |
 | :--- | :--- | :--- |
-| **source** | `author` | Link a `[[Person]]`. |
+| **source** | `author` | Lista di link: `["[[Person]]"]`. |
 | | `year` | Anno di pubblicazione. |
+| | `url` | Link esterno (Web). |
 | | `media` | `book`, `paper`, `video`. |
 | **dream** | `lucidity` | Scala 1-5. |
 | | `intensity` | Scala 1-5. |

@@ -3,8 +3,9 @@ type: note
 project: uni-fstp
 status: active
 created: 2025-09-15
-topics: [psychology, planning]
-links: https://www.unipg.it/didattica/corsi-di-laurea-e-laurea-magistrale/archivio/offerta-formativa-2024-25?view=elenco&idcorso=1597&annoregolamento=2024&tab=INS&idins=346157#modulo-360995
+topics:
+  - psychology
+url: https://www.unipg.it/didattica/corsi-di-laurea-e-laurea-magistrale/archivio/offerta-formativa-2024-25?view=elenco&idcorso=1597&annoregolamento=2024&tab=INS&idins=346157#modulo-360995
 ---
 
 1. Psicologia generale (fondamenta)

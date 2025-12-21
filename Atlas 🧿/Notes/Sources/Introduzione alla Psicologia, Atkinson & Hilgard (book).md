@@ -1,10 +1,11 @@
 ---
 type: source
-project: uni-fstp
 status: seed
 topics: [psychology]
 media: book
-author: [[Atkinson]], [[Hilgard]]
+author: 
+  - "[[Atkinson]]"
+  - "[[Hilgard]]"
 ---
 
 

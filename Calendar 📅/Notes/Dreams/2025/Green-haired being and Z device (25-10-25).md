@@ -6,10 +6,8 @@ date: 2025-10-25
 lucidity: 4
 intensity: 5
 topics:
-  - entities
-  - surrealism
-  - time-travel
-links: https://www.reddit.com/r/Jung/s/PPQwXGRWrP
+  - archetypes
+url: https://www.reddit.com/r/Jung/s/PPQwXGRWrP
 ---
 
 I had an incredibly vivid dream with almost perfect narrative coherence, it felt completely real. 

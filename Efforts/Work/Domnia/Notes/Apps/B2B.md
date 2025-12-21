@@ -1,6 +1,7 @@
 ---
-type: note
+type: software
 project: domnia
 status: seed
-topics: [apps, b2b]
+topics:
+  - web-development
 ---

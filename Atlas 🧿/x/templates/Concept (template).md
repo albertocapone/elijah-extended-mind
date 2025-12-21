@@ -1,6 +1,5 @@
 ---
 type: concept
-project: 
 status: seed
 topics: []
 ---
