@@ -6,7 +6,7 @@ topics: []
 role: 
 affiliation: 
 ---
-# Untitled
+# {{title}}
 
 ## Overview
 A brief summary of who this character is.

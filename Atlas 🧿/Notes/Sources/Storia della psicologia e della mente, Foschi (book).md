@@ -1,6 +1,8 @@
 ---
-source:
-type: book
-subject:
-  - Psychology
+type: source
+project: uni-fstp
+status: seed
+topics: [psychology, history]
+media: book
+author: [[Foschi]]
 ---

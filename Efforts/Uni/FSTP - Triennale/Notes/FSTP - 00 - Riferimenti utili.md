@@ -1,7 +1,8 @@
 ---
-type: utils
-project: FSTP
-created: 2025-12-02
+type: note
+project: uni-fstp
+status: stable
+topics: [admin]
 ---
 
 ### Piano di studi

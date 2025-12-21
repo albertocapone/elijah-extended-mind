@@ -1,9 +1,8 @@
 ---
-type: MOC
-subject:
-  - Psychology
-project: FSTP
-course: Elementi di Psicologia Generale
+type: note
+project: uni-fstp
+status: draft
+topics: [psychology]
 ---
 
 ### Topics 

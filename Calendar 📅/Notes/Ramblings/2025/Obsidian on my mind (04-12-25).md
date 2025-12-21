@@ -1,6 +1,11 @@
 ---
+type: log
+project: vault-meta
+status: stable
 date: 2025-12-04
-type: rambling
+topics:
+  - obsidian
+  - system-design
 ---
 
 ### Basi vs MOCs

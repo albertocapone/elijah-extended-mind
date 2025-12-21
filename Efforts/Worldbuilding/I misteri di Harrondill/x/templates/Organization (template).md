@@ -4,7 +4,7 @@ project: harrondill
 status: seed
 topics: []
 ---
-# Congrega degli Eterni
+# {{title}}
 
 ## Mission
 Cosa sta cercando di ottenere questo gruppo?

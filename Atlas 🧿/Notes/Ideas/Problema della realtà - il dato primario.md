@@ -1,10 +1,9 @@
 ---
-subject:
-  - Epistemology
-  - Metaphysics
 type: concept
-tags:
-  - paradox
+status: seed
+topics:
+  - philosophy
+  - epistemology
 ---
 
 ## Il dato primario
@@ -35,10 +34,4 @@ Essa funge da:
 ## 4. Possibili interpretazioni filosofiche
 - **[[Idealismo]]** → il mondo è interamente interno alla coscienza.  
 - **[[Fenomenologia]]** → sospendere il giudizio sull’esterno e descrivere solo come appare.  
-- **[[Realismo critico]]** → sì, esperiamo noi stessi, ma queste esperienze sono causate da un mondo indipendente.  
-
-
-
-
-
-
+- **[[Realismo critico]]** → sì, esperiamo noi stessi, ma queste esperienze sono causate da un mondo indipendente.

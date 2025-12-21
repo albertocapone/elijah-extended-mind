@@ -1,6 +1,8 @@
 ---
-source: "[[evolutionary_psychology_new_science_of_mind_buss.pdf]]"
-subject:
-  - Psychology
-branch: Evolutionary Psychology
+type: source
+project: uni-fstp
+status: seed
+topics: [psychology, evolutionary-psychology]
+media: book
+author: [[David Buss]]
 ---

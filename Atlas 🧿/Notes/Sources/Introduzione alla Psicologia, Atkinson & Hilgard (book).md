@@ -1,8 +1,10 @@
 ---
-source: "[[introduction-to-psychology-atkinson-hilgard.pdf]]"
-subject:
-  - Psychology
-type: book
+type: source
+project: uni-fstp
+status: seed
+topics: [psychology]
+media: book
+author: [[Atkinson]], [[Hilgard]]
 ---
 
 
