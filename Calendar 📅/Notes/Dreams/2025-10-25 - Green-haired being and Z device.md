@@ -3,10 +3,10 @@ type: dream
 project: individuation
 status: stable
 date: 2025-10-25
-lucidity: 4
-intensity: 5
 topics:
   - archetypes
+lucidity: 4
+intensity: 5
 url: https://www.reddit.com/r/Jung/s/PPQwXGRWrP
 created: 2025-12-03
 updated: 2025-12-22

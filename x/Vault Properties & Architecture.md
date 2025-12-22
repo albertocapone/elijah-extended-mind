@@ -35,6 +35,7 @@ Definisce l'identità strutturale della nota. Determina quale template è stato 
 *   `system` - Set di regole (Magia, Tecnologia, Legge, Biologia).
 *   `dream` - Entry del diario notturno.
 *   `log` - Pensieri generali, meeting, meta-note.
+*   `planning` - Roadmap, Syllabus, Dashboard, MOC.
 *   `software` - Applicazioni, tool, specifiche tecniche.
 *   `planning` - Pianificazione attività o progetti.
 *   `project` - Un file che definisce un progetto stesso.

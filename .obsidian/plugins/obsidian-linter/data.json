@@ -52,10 +52,10 @@
       "sort-order": "Ascending Alphabetical"
     },
     "yaml-key-sort": {
-      "enabled": false,
-      "yaml-key-priority-sort-order": "",
+      "enabled": true,
+      "yaml-key-priority-sort-order": "type\nproject\nstatus\ndate\ntopics\nrole\naffiliation\nauthor\nyear\nmedia\nlucidity\nintensity\ncoordinates\npart_of\nurl\ncreated\nupdated",
       "priority-keys-at-start-of-yaml": true,
-      "yaml-sort-order-for-other-keys": "None"
+      "yaml-sort-order-for-other-keys": "Ascending Alphabetical"
     },
     "yaml-timestamp": {
       "enabled": true,
@@ -273,7 +273,7 @@
   "lintOnSave": true,
   "recordLintOnSaveLogs": false,
   "displayChanged": true,
-  "lintOnFileChange": false,
+  "lintOnFileChange": true,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
