@@ -2,8 +2,8 @@
 type: location
 project: misteri-di-harrondill
 status: seed
-created: 2025-12-21
-updated: 2025-12-22
+created: <% tp.file.creation_date("YYYY-MM-DD") %>
+updated: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 coordinates: 
 part_of: 
 ---
