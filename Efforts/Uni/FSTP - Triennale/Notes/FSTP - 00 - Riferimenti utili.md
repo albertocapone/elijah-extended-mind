@@ -1,9 +1,9 @@
 ---
-type: note
+type: planning
 project: uni-fstp
 status: stable
-topics:
-  - planning
+created: 2025-12-02
+updated: 2025-12-22
 ---
 
 ### Piano di studi

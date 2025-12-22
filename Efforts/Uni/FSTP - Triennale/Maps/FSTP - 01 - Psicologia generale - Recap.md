@@ -3,6 +3,8 @@ type: note
 project: uni-fstp
 status: draft
 topics: [psychology]
+created: 2025-12-03
+updated: 2025-12-22
 ---
 
 ### Topics 

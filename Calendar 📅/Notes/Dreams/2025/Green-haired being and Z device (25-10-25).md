@@ -8,6 +8,8 @@ intensity: 5
 topics:
   - archetypes
 url: https://www.reddit.com/r/Jung/s/PPQwXGRWrP
+created: 2025-12-03
+updated: 2025-12-22
 ---
 
 I had an incredibly vivid dream with almost perfect narrative coherence, it felt completely real. 

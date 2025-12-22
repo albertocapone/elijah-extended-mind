@@ -1,6 +1,6 @@
 ---
 type: faction
-project: harrondill
+project: misteri-di-harrondill
 status: seed
 topics: []
 ---

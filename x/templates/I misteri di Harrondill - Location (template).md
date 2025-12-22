@@ -1,8 +1,9 @@
 ---
 type: location
-project: harrondill
+project: misteri-di-harrondill
 status: seed
-topics: []
+created: 2025-12-21
+updated: 2025-12-22
 coordinates: 
 part_of: 
 ---

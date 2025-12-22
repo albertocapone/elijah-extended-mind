@@ -1,10 +1,12 @@
 ---
 type: character
-project: harrondill
+project: misteri-di-harrondill
 status: seed
-topics: []
+created: 2025-12-21
+updated: 2025-12-22
 role: 
 affiliation: 
+author: 
 ---
 # {{title}}
 
@@ -15,14 +17,15 @@ A brief summary of who this character is.
 Details about their past, upbringing, and major life events.
 
 ## Relazioni
-- **Family:**
-- **Allies:**
-- **Enemies:**
+- **Famiglia:**
+- **Alleati:**
+- **Nemici:**
 
-## Tratti e Skills
-- **Personality:**
-- **Skills:**
-- **Appearance:**
+## Tratti e Skill
+- **Personalità:**
+- **Specie:**
+- **Skill:**
+- **Aspetto:**
 
-## Obiettivi/Motivazioni
+## Obiettivi
 What drives this character?

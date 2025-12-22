@@ -3,8 +3,9 @@ type: log
 project: vault-meta
 status: stable
 topics: [system-design, obsidian, documentation]
+created: 2025-12-21
+updated: 2025-12-22
 ---
-
 # Vault Properties & Architecture
 
 ## Filosofia Core
@@ -35,6 +36,7 @@ Definisce l'identità strutturale della nota. Determina quale template è stato 
 *   `dream` - Entry del diario notturno.
 *   `log` - Pensieri generali, meeting, meta-note.
 *   `software` - Applicazioni, tool, specifiche tecniche.
+*   `planning` - Pianificazione attività o progetti.
 *   `project` - Un file che definisce un progetto stesso.
 
 ### `project`
@@ -60,8 +62,8 @@ Per tracciare il ciclo di vita della nota.
     *   `draft` - In fase di scrittura attiva.
     *   `stable` - Finito / Materiale di riferimento.
     *   `archived` - Non più rilevante.
-*   `created`: `YYYY-MM-DD`
-*   `updated`: `YYYY-MM-DD`
+*   `created`: `YYYY-MM-DD` (Gestito da Templater)
+*   `updated`: `YYYY-MM-DD` (Gestito da Linter/Plugin)
 
 ---
 
@@ -76,12 +78,28 @@ Usate solo per `type` specifici.
 | | `media` | `book`, `paper`, `video`. |
 | **dream** | `lucidity` | Scala 1-5. |
 | | `intensity` | Scala 1-5. |
-| **character** | `role` | `protagonist`, `npc`, etc. |
+| **character** | `role` | `protagonist`, `npc`, villain. |
 | | `affiliation` | Link a `[[Faction]]`. |
+| | `author` | Opzionale. Se esterno (es. Stephen King). |
 
 ---
 
 ## 4. Folder Structure (Reference)
+
 *   **Atlas 🧿**: Conoscenza Generale (No Project).
-*   **Efforts**: Progetti Attivi (`harrondill`, `uni`, `work`).
+
+*   **Efforts**: Progetti Attivi (`misteri-di-harrondill`, `uni`, `work`).
+
 *   **Calendar 📅**: Entry basate sul tempo (`individuation`).
+
+*   **x**: Centralized Assets & System Files.
+
+    *   `templates/`
+
+    *   `docs/`
+
+    *   `images/`
+
+    *   `bases/`
+
+

@@ -6,6 +6,8 @@ date: 2025-12-04
 topics:
   - obsidian
   - system-design
+created: 2025-12-04
+updated: 2025-12-22
 ---
 
 ### Basi vs MOCs

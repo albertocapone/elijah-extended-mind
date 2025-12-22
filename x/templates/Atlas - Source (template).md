@@ -7,6 +7,8 @@ author:
 year: 
 media: 
 url: 
+created: 2025-12-21
+updated: 2025-12-22
 ---
 # {{title}}
 

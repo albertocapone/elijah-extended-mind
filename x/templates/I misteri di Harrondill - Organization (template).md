@@ -1,8 +1,9 @@
 ---
 type: faction
-project: harrondill
+project: misteri-di-harrondill
 status: seed
-topics: []
+created: 2025-12-21
+updated: 2025-12-22
 ---
 # {{title}}
 
@@ -17,4 +18,4 @@ Cosa sta cercando di ottenere questo gruppo?
 Dove si trovano? (Link to [[Locations]])
 
 ## Storia
-Come si è formato il gruppo?
+How was this group formed?
