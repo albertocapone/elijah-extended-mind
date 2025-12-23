@@ -37,6 +37,18 @@
     {
       "folder": "Calendar 📅/Notes/Dreams",
       "template": "x/templates/Individuation - Dream (template).md"
+    },
+    {
+      "folder": "Calendar 📅/Synchronicities",
+      "template": "x/templates/Individuation - Synchronicity (template).md"
+    },
+    {
+      "folder": "Atlas 🧿/Concepts",
+      "template": "x/templates/Atlas - Concept (template).md"
+    },
+    {
+      "folder": "Atlas 🧿/Sources",
+      "template": "x/templates/Atlas - Source (template).md"
     }
   ],
   "enable_file_templates": false,

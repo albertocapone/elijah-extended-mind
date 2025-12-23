@@ -4,7 +4,6 @@ status: seed
 topics:
   - mythology
   - alchemy
-  - jung
   - psychology
 created: 2025-12-23
 updated: 2025-12-23
