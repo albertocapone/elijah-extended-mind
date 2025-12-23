@@ -6,12 +6,14 @@ created: 2025-12-21
 updated: 2025-12-23
 ---
 ## Definizione Simbolica
-Zeta è la mia personale manifestazione dell'archetipo universale ([[Mercurius (Archetipo)]]).
+Jack è la mia personale manifestazione dell'archetipo universale ([[Mercurius (Archetipo)]]).
 Per me rappresenta il **Messaggero**, il **Trickster** e il **Ponte**. È la funzione di collegamento tra il conscio e l'inconscio, tra il mondo materiale e quello spirituale. È fluido, mutevole (capelli verdi, mutaforma) e spesso paradossale.
 
 ## Occorrenze Personali
 - [[2025-10-25 - L'essere dai capelli verdi e il dispositivo Z]] (Prima manifestazione onirica diretta).
 - [[2025-12-21 - Il Jack verde di Angelo Raeghal]] (Sincronicità durante il lavoro con la vault).
+- [[2025-12-23 - Mi stai dicendo che il tuo nome è Jack?]] (Insight riflettendo sulla catena di eventi della giornata, decido di rinominare la nota da 
+  _Zeta - L'essere dai capelli verdi_ a _Jack - L'essere dai capelli verdi_)
 
 ## Amplificazione
 Nell'alchimia, Mercurius è lo spirito trasformativo ("l'acqua che non bagna le mani"). È associato al metallo mercurio (fluido) e al pianeta omonimo. Nella modernità, la sua energia si sposta verso l'informazione, i computer e le reti.

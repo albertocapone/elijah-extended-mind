@@ -46,4 +46,4 @@ Darkness.
 I woke up in my bed in Taranto, it was all a dream. The experience was so vivid that I got chills and tears came to my eyes while talking about it. Even hours later, I still have chills and a sense of having encountered something genuinely autonomous and terrifying.
 
 Related:
-- [[Zeta -  L'essere dai capelli verdi]]
+- [[Jack -  L'essere dai capelli verdi]]
