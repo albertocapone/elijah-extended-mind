@@ -24,10 +24,6 @@ lucidity: 1
 intensity: 3
 
 ---
-# <% title %>
+## Sogno
 
-## Dream
-Description...
-
-## Interpretation
-...
+## Interpretazione

@@ -4,19 +4,17 @@ status: seed
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 updated: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 topics: []
-author:
-year:
-media:
-url:
+author: 
+  - "[[...]]"
+year: 
+media: 
+file: "[[...]]"
+url: 
 ---
-# {{title}}
+## Riassunto
 
-## Summary
-Brief overview.
+## Punti Chiave
+- 
 
-## Key Insights
-- Point 1
-- Point 2
-
-## Quotes
-> Quote here.
+## Citazioni
+> 

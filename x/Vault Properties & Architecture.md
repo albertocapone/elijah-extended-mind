@@ -4,7 +4,7 @@ project: vault-meta
 status: stable
 topics: [system-design, obsidian, documentation]
 created: 2025-12-21
-updated: 2025-12-22
+updated: 2025-12-23
 ---
 # Vault Properties & Architecture
 
@@ -75,6 +75,7 @@ Usate solo per `type` specifici.
 | :--- | :--- | :--- |
 | **source** | `author` | Lista di link: `["[[Person]]"]`. |
 | | `year` | Anno di pubblicazione. |
+| | `file` | Link al file locale: `[[Book.pdf]]`. |
 | | `url` | Link esterno (Web). |
 | | `media` | `book`, `paper`, `video`. |
 | **dream** | `lucidity` | Scala 1-5. |

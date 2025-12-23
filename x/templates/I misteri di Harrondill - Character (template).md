@@ -8,13 +8,9 @@ role:
 affiliation: 
 author: 
 ---
-# {{title}}
+## Panoramica
 
-## Overview
-A brief summary of who this character is.
-
-## Bio
-Details about their past, upbringing, and major life events.
+## Biografia
 
 ## Relazioni
 - **Famiglia:**
@@ -28,4 +24,3 @@ Details about their past, upbringing, and major life events.
 - **Aspetto:**
 
 ## Obiettivi
-What drives this character?

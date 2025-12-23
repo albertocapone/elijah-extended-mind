@@ -5,13 +5,9 @@ created: <% tp.file.creation_date("YYYY-MM-DD") %>
 updated: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 topics: []
 ---
-# {{title}}
+## Definizione
 
-## Definition
-What is this concept?
+## Contesto
 
-## Context
-Where does it apply?
-
-## Related Concepts
+## Concetti Correlati
 - [[...]]

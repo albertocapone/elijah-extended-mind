@@ -2,9 +2,8 @@
 type: source
 status: seed
 topics: [psychology, evolutionary-psychology]
+media: book
 author: 
   - "[[David Buss]]"
-media: book
-created: 2025-09-15
-updated: 2025-12-22
+file: "[[evolutionary_psychology_new_science_of_mind_buss.pdf]]"
 ---
