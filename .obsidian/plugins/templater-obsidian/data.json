@@ -49,6 +49,10 @@
     {
       "folder": "Atlas 🧿/Sources",
       "template": "x/templates/Atlas - Source (template).md"
+    },
+    {
+      "folder": "Calendar 📅/Journal",
+      "template": "x/templates/Calendar - Journal (template).md"
     }
   ],
   "enable_file_templates": false,

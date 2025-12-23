@@ -4,62 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "be57af8839cf9881",
+        "id": "aa3ade16bf07a8d4",
         "type": "tabs",
         "children": [
           {
-            "id": "c6930ca3be54868f",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Atlas 🧿/Concepts/Mercurius (Archetipo).md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of Mercurius (Archetipo)"
-            }
-          },
-          {
-            "id": "5fbcfa458b76a4e2",
+            "id": "602060563b0582bf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Atlas 🧿/Concepts/Mercurius (Archetipo).md",
+                "file": "Calendar 📅/Journal/2025-12-23 - Mi stai dicendo che il tuo nome è Jack?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mercurius (Archetipo)"
+              "title": "2025-12-23 - Mi stai dicendo che il tuo nome è Jack?"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,16 +194,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5fbcfa458b76a4e2",
+  "active": "602060563b0582bf",
   "lastOpenFiles": [
+    "Jack Skeletron.md",
+    "Calendar 📅/Journal/2025-12-23 - Mi stai dicendo che il tuo nome è Jack?.md",
+    "Zero.md",
+    "Efforts/Self/Individuation/Zeta -  L'essere dai capelli verdi.md",
+    "Calendar 📅/Synchronicities/2025-12-21 - Il Jack verde di Angelo Raeghal.md",
+    "x/templates/Calendar - Synchronicity (template).md",
+    "x/templates/Calendar - Dream (template).md",
+    "x/templates/Calendar - Journal (template).md",
+    "Atlas 🧿/Concepts/Mercurius (Archetipo).md",
+    "Calendar 📅/Synchronicities/2025-12-23 - Untitled.md",
     "x/templates/Atlas - Concept (template).md",
     "Atlas 🧿/Concepts/Untitled.md",
     "x/Vault Architecture.md",
     "x/templates/Atlas - Source (template).md",
-    "x/templates/Individuation - Synchronicity (template).md",
     "Efforts/Self/Individuation/Notes/Zeta -  L'essere dai capelli verdi.md",
     "Atlas 🧿/Notes/Ideas/Problema della realtà - il dato primario.md",
-    "Calendar 📅/Synchronicities/2025-12-21 - Il Jack verde di Angelo Raeghal.md",
     "Calendar 📅/Synchronicities",
     "Calendar 📅/Journal/2025-12-04 - Obsidian on my mind.md",
     "Calendar 📅/Journal",
@@ -252,7 +222,6 @@
     "Efforts/Uni/FSTP - Triennale/001 - Psicologia Generale",
     "Efforts/Uni/FSTP - Triennale/FSTP - Dashboard.md",
     "Efforts/Uni/FSTP - Triennale/FSTP - 01 - Psicologia Generale.md",
-    "Efforts/Self/Individuation/Zeta -  L'essere dai capelli verdi.md",
     "Efforts/Worldbuilding/I misteri di Harrondill/Systems",
     "Efforts/Worldbuilding/I misteri di Harrondill/Plot",
     "Efforts/Worldbuilding/I misteri di Harrondill/Organizations & Factions/Congrega degli Eterni.md",
@@ -263,13 +232,6 @@
     "Atlas 🧿/Concepts/Storia della psicologia - Cronologia e filo rosso.md",
     "Atlas 🧿/Concepts/Prospettive contemporanee nella psicologia.md",
     "Atlas 🧿/Concepts/Problema della realtà - il dato primario.md",
-    "Atlas 🧿/Concepts/Mercurius (Archetipo).md",
-    "Atlas 🧿/Sources/The Blank Slate, The Modern Denial of Human Nature, Pinker (book).md",
-    "Atlas 🧿/Sources/Storia della psicologia e della mente, Foschi (book).md",
-    "Atlas 🧿/Sources/Introduzione alla Psicologia, Atkinson & Hilgard (book).md",
-    "Atlas 🧿/Sources/Evolutionary Psychology, the New Science of the Mind, Buss (book).md",
-    "Atlas 🧿/Sources/Consciousness, an Introduction, Blackmore (book).md",
-    "Atlas 🧿/Sources/Cognitive Neuroscience, Gazzaniga (book).md",
     "x/images/Screenshot 2025-12-23 at 12.45.03.png",
     "Screenshot 2025-12-23 at 12.45.03.png",
     "x/images/escher-hand-with-reflecting-sphere.jpeg",
