@@ -2,12 +2,10 @@
 type: source
 status: seed
 topics: [psychology]
+media: book
 author: 
   - "[[Atkinson]]"
   - "[[Hilgard]]"
-media: book
-created: 2025-09-15
-updated: 2025-12-23
 file: "[[introduction-to-psychology-atkinson-hilgard.pdf]]"
 ---
 

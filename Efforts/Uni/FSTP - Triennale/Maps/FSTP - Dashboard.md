@@ -1,10 +1,12 @@
 ---
-type: planning
+type: log
 project: uni-fstp
 status: stable
+topics: [admin]
 created: 2025-12-02
 updated: 2025-12-23
 ---
+
 ### Piano di studi
 
 ![[unipg-piano-studi 1.pdf]]

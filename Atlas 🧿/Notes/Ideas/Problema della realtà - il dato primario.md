@@ -5,7 +5,9 @@ topics:
   - philosophy
   - epistemology
 created: 2025-09-15
-updated: 2025-12-22
+updated: 2025-12-23
+tags:
+  - paradox
 ---
 
 ## Il dato primario

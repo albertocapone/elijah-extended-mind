@@ -1,19 +1,16 @@
 ---
-type: event
-project: misteri-di-harrondill
+type: symbol
+project: individuation
 status: seed
 created: <% tp.file.creation_date("YYYY-MM-DD") %>
 updated: <% tp.file.last_modified_date("YYYY-MM-DD") %>
-date: 
 image: 
 ---
-## Panoramica
+## Definizione Simbolica
 
-## Data
+## Occorrenze Personali
+- [[...]]
 
-## Partecipanti
-[[...]]
+## Amplificazione
 
-## Legami col Mondo
-
-## Effetti
+## Integrazione

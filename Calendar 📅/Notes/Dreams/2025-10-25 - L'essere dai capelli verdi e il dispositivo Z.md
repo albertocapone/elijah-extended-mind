@@ -4,12 +4,12 @@ project: individuation
 status: stable
 date: 2025-10-25
 topics:
-  - archetypes
+  - surrealism
 lucidity: 4
 intensity: 5
 url: https://www.reddit.com/r/Jung/s/PPQwXGRWrP
 created: 2025-12-03
-updated: 2025-12-22
+updated: 2025-12-23
 ---
 
 I had an incredibly vivid dream with almost perfect narrative coherence, it felt completely real. 
@@ -46,5 +46,4 @@ Darkness.
 I woke up in my bed in Taranto, it was all a dream. The experience was so vivid that I got chills and tears came to my eyes while talking about it. Even hours later, I still have chills and a sense of having encountered something genuinely autonomous and terrifying.
 
 Related:
-- [[Mercurius]]
-- [[IT (Stephen King)]]
+- [[Zeta -  L'essere dai capelli verdi]]

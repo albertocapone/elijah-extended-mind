@@ -1,10 +1,11 @@
 ---
-type: planning
+type: concept
 project: uni-fstp
 status: active
 url: https://www.unipg.it/didattica/corsi-di-laurea-e-laurea-magistrale/archivio/offerta-formativa-2024-25?view=elenco&idcorso=1597&annoregolamento=2024&tab=INS&idins=346157#modulo-360995
 created: 2025-09-15
 updated: 2025-12-22
+topics: [psychology, planning]
 ---
 
 # Programma & Syllabus

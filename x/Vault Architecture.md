@@ -6,8 +6,6 @@ topics: [system-design, obsidian, documentation]
 created: 2025-12-21
 updated: 2025-12-23
 ---
-# Vault Properties & Architecture
-
 ## Filosofia Core
 Questo vault utilizza un sistema di proprietà "Project-Centric".
 - **project**: Definisce il contesto di *creazione* (Perché sto creando questa nota?).
@@ -33,7 +31,9 @@ Definisce l'identità strutturale della nota. Determina quale template è stato 
 *   `faction` - Gruppi, aziende, gilde, organizzazioni.
 *   `event` - Eventi storici o narrativi.
 *   `system` - Set di regole (Magia, Tecnologia, Legge, Biologia).
+*   `symbol` - Archetipi, simboli onirici, figure psicologiche.
 *   `dream` - Entry del diario notturno.
+*   `synchronicity` - Coincidenze significative (Evento Interno + Esterno).
 *   `log` - Pensieri generali, meeting, meta-note.
 *   `planning` - Roadmap, Syllabus, Dashboard, MOC.
 *   `software` - Applicazioni, tool, specifiche tecniche.
@@ -76,6 +76,7 @@ Usate solo per `type` specifici.
 | **source** | `author` | Lista di link: `["[[Person]]"]`. |
 | | `year` | Anno di pubblicazione. |
 | | `file` | Link al file locale: `[[Book.pdf]]`. |
+| | `image` | Link immagine: `[[Art.png]]`. |
 | | `url` | Link esterno (Web). |
 | | `media` | `book`, `paper`, `video`. |
 | **dream** | `lucidity` | Scala 1-5. |

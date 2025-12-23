@@ -7,6 +7,7 @@ updated: <% tp.file.last_modified_date("YYYY-MM-DD") %>
 role: 
 affiliation: 
 author: 
+image: 
 ---
 ## Panoramica
 
