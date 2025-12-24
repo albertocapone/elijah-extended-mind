@@ -9,7 +9,7 @@ lucidity: 4
 intensity: 5
 url: https://www.reddit.com/r/Jung/s/PPQwXGRWrP
 created: 2025-12-03
-updated: 2025-12-23
+updated: 2025-12-24
 ---
 
 I had an incredibly vivid dream with almost perfect narrative coherence, it felt completely real. 

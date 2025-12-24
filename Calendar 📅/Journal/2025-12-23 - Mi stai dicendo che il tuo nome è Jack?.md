@@ -4,10 +4,9 @@ project: individuation
 status: stable
 date: 2025-12-23
 created: 2025-12-23
-updated: 2025-12-23
+updated: 2025-12-24
 ---
- more
-Mentre registro la sincronicità [[2025-12-21 - Il Jack verde di Angelo Raeghal]] mi rendo conto che per diverso tempo mi sono chiesto quale fosse il nome dell'entità dai capelli verdi che mi è venuta nel sogno [[2025-10-25 - L'essere dai capelli verdi e il dispositivo Z]]. 
+ Mentre registro la sincronicità [[2025-12-21 - Il Jack verde di Angelo Raeghal]] mi rendo conto che per diverso tempo mi sono chiesto quale fosse il nome dell'entità dai capelli verdi che mi è venuta nel sogno [[2025-10-25 - L'essere dai capelli verdi e il dispositivo Z]]. 
 
 Inizialmente pensavo di assegnarle il nome del fantomatico dispositivo che nel sogno mi permetteva di "eclissarla dallo spazio-tempo". Ma se rileggo la conversazione con Angelo mi sembra molto chiaro che voglia farsi chiamare Jack.
 
